@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+#oaks-audition
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app allows startup track roadmap progress
+
+## Built With
+
+- React.js
+- Typescript
+- Git
+- Jest
+
+## Clone this project
+
+    $ git clone https://github.com/adisamicheal/oaks-audition.git
+    $ cd oaks-audition
+    
+## Configure app
 
 ## Available Scripts
 
