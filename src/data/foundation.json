@@ -1,0 +1,48 @@
+{
+    "foundation": [
+        {
+            "id": 1,
+            "text": "Setup virtual office",
+            "check": false
+        },
+        {
+            "id": 2,
+            "text": "Set mission & vision",
+            "check": false
+        },
+        {
+            "id": 3,
+            "text": "Select business name",
+            "check": false
+        },
+        {
+            "id": 4,
+            "text": "Buy domains",
+            "check": false
+        }
+    ],
+    "discovery" : [
+        {
+            "id": 1,
+            "text": "Create roadmap",
+            "check": false
+        },
+        {
+            "id": 2,
+            "text": "Competitor analysis",
+            "check": false
+        }
+    ],
+    "delivery": [
+        {
+            "id": 1,
+            "text": "Release marketing website",
+            "check": false
+        },
+        {
+            "id": 2,
+            "text": "Release MVP",
+            "check": false
+        }
+    ]
+}
